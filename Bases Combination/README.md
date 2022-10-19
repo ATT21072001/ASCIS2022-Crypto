@@ -1,7 +1,8 @@
 # Bases Combination
 Một bài khá là đơn giản sử dụng 2 loại base để decode liên tiếp là base85 và base45
 
-![306377762_782532009707924_8585616911562278964_n](https://user-images.githubusercontent.com/97930158/196590248-4e1472c3-39ce-456b-83c8-4d832fd0972d.png)
+![z3811367082155_ac3d5d76c9a41fa37f23076229c355e0](https://user-images.githubusercontent.com/97930158/196591828-5dac0eb5-74a1-45f9-8e88-d958f974f855.jpg)
+
 
 Input:   ;aNHI9fO_#5s\R@77&n.0geE-78liI+AkQ^1IG>)6rPj.8kh3(68g;F6o-Ja=u$
 
