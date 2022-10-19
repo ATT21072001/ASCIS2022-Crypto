@@ -1,6 +1,6 @@
 # Bases Combination
 Một bài khá là đơn giản sử dụng 2 loại base để decode liên tiếp là base85 và base45
 
-![Bases Combination]("blob:https://www.facebook.com/69d955c7-12a3-4c22-bf36-8004e066c18e")
+![306377762_782532009707924_8585616911562278964_n](https://user-images.githubusercontent.com/97930158/196590248-4e1472c3-39ce-456b-83c8-4d832fd0972d.png)
 
 FLAG: ASCIS{th1s_1s_just_th3_b3g1nn1ng}
