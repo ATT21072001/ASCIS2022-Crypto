@@ -17,6 +17,8 @@ __1. Giới thiệu về AES__
 
 
    AES (Advanced Encryption Standard) là một thuật toán “mã hóa khối” (block cipher). AES trở thành một trong những thuật toán mã hóa phổ biến nhất sử dụng khóa mã đối xứng để mã hóa và giải mã (một số được giữ bí mật dùng cho quy trình mở rộng khóa nhằm tạo ra một tập các khóa vòng).
+
+
 __2. Đặc điểm kỹ thuật__
 
 
