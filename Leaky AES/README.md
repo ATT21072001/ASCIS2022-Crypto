@@ -39,6 +39,7 @@ __2. Đặc điểm kỹ thuật__
 * Chi tiết thuật toán có thể tham khảo tại: https://vi.wikipedia.org/wiki/Advanced_Encryption_Standard
 * Nguồn copy: https://viblo.asia/p/tieu-chuan-ma-hoa-aes-la-gi-va-su-dung-no-trong-ung-dung-ruby-thong-qua-opensslcipher-63vKj0DRl2R
 * Cơ chế: 
+![z3811513110509_cf7b38e9fdd9633f5e7b34a72fa61b0f](https://user-images.githubusercontent.com/97930158/196597961-9c7b510b-d497-4c4c-a252-c8eb0d7a7b8e.jpg)
 
 
 
