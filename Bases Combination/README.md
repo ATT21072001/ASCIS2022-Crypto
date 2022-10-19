@@ -3,7 +3,7 @@ Một bài khá là đơn giản sử dụng 2 loại base để decode liên ti
 
 ![306377762_782532009707924_8585616911562278964_n](https://user-images.githubusercontent.com/97930158/196590248-4e1472c3-39ce-456b-83c8-4d832fd0972d.png)
 
-Input: ;aNHI9fO_#5s\R@77&n.0geE-78liI+AkQ^1IG>)6rPj.8kh3(68g;F6o-Ja=u$
+Input:   ;aNHI9fO_#5s\R@77&n.0geE-78liI+AkQ^1IG>)6rPj.8kh3(68g;F6o-Ja=u$
 
 
 
